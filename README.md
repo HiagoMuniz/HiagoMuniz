@@ -45,10 +45,14 @@
 
 ### Stats
 
-<p align="left">
-  <img width="100%" src="assets/languages.png" alt="Most used languages across my repos"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.png">
+  <img width="100%" src="assets/languages-light.png" alt="Most used languages across my repos"/>
+</picture>
 
-<p align="left">
-  <img width="100%" src="assets/activity.png" alt="Commit activity over the last 12 months"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.png">
+  <img width="100%" src="assets/activity-light.png" alt="Commit activity over the last 12 months"/>
+</picture>
