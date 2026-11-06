@@ -46,10 +46,9 @@
 ### Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HiagoMuniz&show_icons=true&theme=default&hide_border=true" alt="Hiago's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoMuniz&layout=compact&hide_border=true" alt="Top languages"/>
+  <img width="100%" src="assets/languages.png" alt="Most used languages across my repos"/>
 </p>
 
 <p align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HiagoMuniz&theme=minimal&hide_border=true" alt="Hiago's commit activity graph"/>
+  <img width="100%" src="assets/activity.png" alt="Commit activity over the last 12 months"/>
 </p>
